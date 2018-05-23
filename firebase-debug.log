@@ -1,0 +1,18 @@
+[debug] [2018-05-23T13:26:35.766Z] ----------------------------------------------------------------------
+[debug] [2018-05-23T13:26:35.774Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\qiao\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2018-05-23T13:26:35.774Z] CLI Version:   3.18.4
+[debug] [2018-05-23T13:26:35.774Z] Platform:      win32
+[debug] [2018-05-23T13:26:35.774Z] Node Version:  v9.10.1
+[debug] [2018-05-23T13:26:35.782Z] Time:          Wed May 23 2018 22:26:35 GMT+0900 (東京 (標準時))
+[debug] [2018-05-23T13:26:35.782Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-05-23T13:26:35.818Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-05-23T13:26:35.818Z] > authorizing via signed-in user
+[debug] [2018-05-23T13:26:35.826Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/weather-e382e  
+  
+ Wed May 23 2018 22:26:35 GMT+0900 (東京 (標準時))
+[debug] [2018-05-23T13:26:36.682Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-23T13:26:36.682Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/weather-e382e/tokens  
+  
+ Wed May 23 2018 22:26:36 GMT+0900 (東京 (標準時))
+[debug] [2018-05-23T13:26:37.338Z] <<< HTTP RESPONSE 200

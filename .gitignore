@@ -1,3 +1,4 @@
 /functions/node_modules/
 !.gitkeep
 /package-lock.json
+/functions/init.json
